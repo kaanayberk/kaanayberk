@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hello, I'm Kaan Ayberk! 👋
 
-<!--
-**kaanayberk/kaanayberk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Management Information Systems graduate who combines coding with creative design. I build mobile apps, websites, and user experiences.
 
-Here are some ideas to get you started:
+🛠 **Skills:**
+* **Development:** Mobile App (Flutter/React Native), Web Development
+* **Design:** Logo Design, UI/UX
+* **Education:** Management Information Systems (MIS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Currently Working On:**
+* **KPSSLab:** My own mobile app and web platform project.
+* **kaanayberk.com:** Building my personal website from scratch.
+* **Social Impact Project:** Developing an app to raise awareness about disabilities and foster empathy in society.
+
+📫 **Connect with Me:**
+* [LinkedIn Profile](https://www.linkedin.com/in/kaan-ayberk-bah%C3%A7eli-25452b206/)
+* 📧 Email: work@kaanayberk.com
